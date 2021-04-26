@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Waiter Muzzillo",
+    "email": "wmuzzillo0@stanford.edu",
+    "contact": "937-288-5481",
+    "gender": "Male",
+    "ip_address": "224.22.94.205",
+    "DOB": "1/13/2007",
+    "Avatar": "https://robohash.org/abetoccaecati.jpg?size=50x50&set=set1",
+    "Active": true,
+    "JobTitle": "Human Resources Assistant II",
+    "CompanyName": "Wikibox",
+    "Role": "ADMIN",
+    "password": "test1234",
+    "passwordConfirm": "test1234"
+  },
+
+  {
+    "name": "Emmett Duggon",
+    "email": "eduggon1@yellowpages.com",
+    "contact": "140-547-3742",
+    "gender": "Male",
+    "ip_address": "230.131.129.73",
+    "DOB": "11/15/1992",
+    "Avatar": "https://robohash.org/earumfacereenim.bmp?size=50x50&set=set1",
+    "Active": true,
+    "JobTitle": "Account Executive",
+    "CompanyName": "Kayveo",
+    "Role": "ADMIN",
+    "password": "test1234",
+    "passwordConfirm": "test1234"
+  },
+
+  {
+    "name": "Ivy Charleston",
+    "email": "icharleston2@census.gov",
+    "contact": "271-501-5991",
+    "gender": "Female",
+    "ip_address": "141.208.47.6",
+    "DOB": "5/30/1992",
+    "Avatar": "https://robohash.org/magnidoloresducimus.bmp?size=50x50&set=set1",
+    "Active": false,
+    "JobTitle": "General Manager",
+    "CompanyName": "Vinte",
+    "Role": "ANALYST",
+    "password": "test1234",
+    "passwordConfirm": "test1234"
+  },
+
+  {
+    "name": "Elijah Ollerenshaw",
+    "email": "eollerenshaw3@youtube.com",
+    "contact": "833-936-6581",
+
+    "gender": "Male",
+    "ip_address": "4.75.23.188",
+    "DOB": "6/8/1997",
+    "Avatar": "https://robohash.org/excepturiestet.bmp?size=50x50&set=set1",
+    "Active": true,
+    "JobTitle": "Software Test Engineer III",
+    "CompanyName": "Quire",
+    "Role": "ANALYST",
+    "password": "test1234",
+    "passwordConfirm": "test1234"
+  },
+
+  {
+    "name": "Clayson Gough",
+    "email": "cgough4@amazon.co.uk",
+    "contact": "849-319-1103",
+    "gender": "Male",
+    "ip_address": "150.199.183.11",
+    "DOB": "2/21/1993",
+    "Avatar": "https://robohash.org/quidemnecessitatibusiste.jpg?size=50x50&set=set1",
+    "Active": true,
+    "JobTitle": "Research Associate",
+    "CompanyName": "Camimbo",
+    "Role": "USER",
+    "password": "test1234",
+    "passwordConfirm": "test1234"
+  },
+
+  {
+    "name": "Dore Brenstuhl",
+    "email": "dbrenstuhl5@washington.edu",
+    "contact": "739-369-5631",
+    "gender": "Female",
+    "ip_address": "57.94.1.28",
+    "DOB": "3/17/2015",
+    "Avatar": "https://robohash.org/estsedplaceat.bmp?size=50x50&set=set1",
+    "Active": true,
+    "JobTitle": "Programmer Analyst III",
+    "CompanyName": "Jaxnation",
+    "Role": "USER",
+    "password": "test1234",
+    "passwordConfirm": "test1234"
+  },
+
+  {
+    "name": "Reinaldos Smogur",
+    "email": "rsmogur6@aol.com",
+    "contact": "223-858-8405",
+    "gender": "Male",
+    "ip_address": "108.31.29.63",
+    "DOB": "3/7/2007",
+    "Avatar": "https://robohash.org/velitutsint.jpg?size=50x50&set=set1",
+    "Active": false,
+    "JobTitle": "Quality Engineer",
+    "CompanyName": "Edgewire",
+    "Role": "USER",
+    "password": "test1234",
+    "passwordConfirm": "test1234"
+  },
+
+  {
+    "name": "Josy Lamport",
+    "email": "jlamport7@seesaa.net",
+    "contact": "912-834-5379",
+
+    "gender": "Female",
+    "ip_address": "99.150.109.31",
+    "DOB": "4/25/2016",
+    "Avatar": "https://robohash.org/natusquiacommodi.png?size=50x50&set=set1",
+    "Active": true,
+    "JobTitle": "Nurse",
+    "CompanyName": "Wikido",
+    "Role": "USER",
+    "password": "test1234",
+    "passwordConfirm": "test1234"
+  },
+
+  {
+    "name": "Armando Eglese",
+    "email": "aeglese8@cisco.com",
+    "contact": "288-153-9154",
+    "gender": "Male",
+    "ip_address": "18.196.180.167",
+    "DOB": "10/2/1996",
+    "Avatar": "https://robohash.org/voluptatemametharum.png?size=50x50&set=set1",
+    "Active": false,
+    "JobTitle": "Quality Engineer",
+    "CompanyName": "Skiptube",
+    "Role": "ANALYST",
+    "password": "test1234",
+    "passwordConfirm": "test1234"
+  },
+
+  {
+    "name": "Raquel Korpal",
+    "email": "rkorpal9@youku.com",
+    "contact": "182-390-6831",
+    "gender": "Female",
+    "ip_address": "200.58.35.183",
+    "DOB": "2/9/1990",
+    "Avatar": "https://robohash.org/aliquamidsint.jpg?size=50x50&set=set1",
+    "Active": true,
+    "JobTitle": "Editor",
+    "CompanyName": "Realpoint",
+    "Role": "USER",
+    "password": "test1234",
+    "passwordConfirm": "test1234"
+  }
+]
